@@ -1,0 +1,1 @@
+#The project was created to work with the database and react
